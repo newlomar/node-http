@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTp Module Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newlomar/node-http.git"
+  },
+  "author": "Newton Lomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newlomar/node-http/issues"
+  },
+  "homepage": "https://github.com/newlomar/node-http#readme"
+}
